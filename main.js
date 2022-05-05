@@ -5,10 +5,6 @@ function onScroll() {
     navigation.classList.remove('scroll')
   }
 }
-function teste() {
-  console.log('mensagem')
-}
-teste()
 function openMenu() {
   document.body.classList.add('menu-expanded')
 }
